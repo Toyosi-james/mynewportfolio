@@ -13,14 +13,14 @@ const Work = () => {
         {/* PiggyVest */}
         <div className="w-[350px] bg-[#fcf4ff] dark:bg-gray-800 pb-4 rounded-lg hover:scale-[1.02] border border-gray-400 dark:border-gray-600
                         hover:shadow-[4px_4px_0_#000] cursor-pointer hover:bg-[#fcf4ff] dark:hover:bg-gray-700 hover:-translate-y-1 duration-500">
-          <img className="w-[350px] mb-5 rounded-t-lg" src="/piggy.png" alt="" />
+          <img className="w-[350px] mb-5 rounded-t-lg" src="/borabeauty.png" alt="" />
           <div className="px-3">
-            <h1 className="text-[18px] font-bold text-black dark:text-white">PiggyVest Clone</h1>
-            <p className="text-gray-700 dark:text-gray-300 font-bold">Tech Stack: React, Tailwind CSS</p>
+            <h1 className="text-[18px] font-bold text-black dark:text-white">Bora Beauty Business page</h1>
+            <p className="text-gray-700 dark:text-gray-300 font-bold">Tech Stack: Next Js, Tailwind CSS</p>
           </div>
           <div className="px-3 py-4 flex items-center gap-3">
-            <a className="bg-black text-[#fcf4ff] p-2 font-bold rounded-[5px]" href="https://github.com/Toyosi-james/piggyvestHeader" target="_blank" rel="noopener noreferrer">View Project</a>
-            <a className="border-2 border-gray-400 dark:border-gray-600 p-2 rounded-[5px] font-bold" href="https://piggyvest-header-db8a.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+            <a className="bg-black text-[#fcf4ff] p-2 font-bold rounded-[5px]" href="https://github.com/Toyosi-james/borabeauty" target="_blank" rel="noopener noreferrer">View Project</a>
+            <a className="border-2 border-gray-400 dark:border-gray-600 p-2 rounded-[5px] font-bold" href="https://borabeauty.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
           </div>
         </div>
 
